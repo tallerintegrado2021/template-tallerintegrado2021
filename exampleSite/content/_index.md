@@ -1,6 +1,7 @@
 ---
-title: 'Hugo Whisper Docs'
-date: 2018-11-28T15:14:39+10:00
+title: 'Nombre Alumno'
+date: 2020-06-17T19:30:08+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+<!-- Descripción inicial -->
+Sitio web personal de documentación del Taller Integrado - Magíster Innovación y Diseño UAI 2021. 
